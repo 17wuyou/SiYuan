@@ -1,5 +1,13 @@
 {
   "local-codelang": "json",
+  "local-dialogposition": {
+    "dialog-kernelfault": {
+      "height": 139,
+      "left": 380,
+      "top": 266,
+      "width": 520
+    }
+  },
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
@@ -55,7 +63,7 @@
       "focusId": "20250808074735-o36pm81",
       "focusStart": 0,
       "rootId": "20250808074658-61f6pxe",
-      "scrollTop": 0,
+      "scrollTop": 400,
       "startId": "20250808074735-o36pm81"
     },
     "20250808075441-0drwpvj": {
@@ -64,7 +72,7 @@
       "focusId": "20250808075634-nhro67c",
       "focusStart": 0,
       "rootId": "20250808075441-0drwpvj",
-      "scrollTop": 1769,
+      "scrollTop": 115.33333587646484,
       "startId": "20250808075634-nhro67c"
     },
     "20250808114316-m313co9": {
@@ -180,18 +188,18 @@
     },
     "20250921081051-qzb09rl": {
       "endId": "20250924183457-6jwgh24",
-      "focusEnd": 13,
-      "focusId": "20250924183457-5tay6hr",
-      "focusStart": 13,
       "rootId": "20250921081051-qzb09rl",
-      "scrollTop": 1900,
+      "scrollTop": 900,
       "startId": "20250924100757-bix6lh7"
     },
     "20250922190647-ln5pl0t": {
-      "endId": "20250922200355-pc5parw",
+      "endId": "20250922212739-x7x6dx5",
+      "focusEnd": 169,
+      "focusId": "20250922212304-1ab3bwg",
+      "focusStart": 169,
       "rootId": "20250922190647-ln5pl0t",
-      "scrollTop": 2900,
-      "startId": "20250922194422-4isowv1"
+      "scrollTop": 7812.66650390625,
+      "startId": "20250922211913-k8wvdl3"
     }
   },
   "local-filespaths": [
