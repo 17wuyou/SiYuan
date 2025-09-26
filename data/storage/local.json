@@ -188,18 +188,24 @@
     },
     "20250921081051-qzb09rl": {
       "endId": "20250924183457-6jwgh24",
+      "focusEnd": 36,
+      "focusId": "20250925092102-0bgi4h6",
+      "focusStart": 36,
       "rootId": "20250921081051-qzb09rl",
-      "scrollTop": 900,
+      "scrollTop": 200,
       "startId": "20250924100757-bix6lh7"
     },
     "20250922190647-ln5pl0t": {
       "endId": "20250922212739-x7x6dx5",
-      "focusEnd": 169,
-      "focusId": "20250922212304-1ab3bwg",
-      "focusStart": 169,
       "rootId": "20250922190647-ln5pl0t",
-      "scrollTop": 7812.66650390625,
+      "scrollTop": 7012,
       "startId": "20250922211913-k8wvdl3"
+    },
+    "20250924222506-p7vjkme": {
+      "endId": "20250924224108-gb6hzba",
+      "rootId": "20250924222506-p7vjkme",
+      "scrollTop": 14493,
+      "startId": "20250924223319-yy8xrn9"
     }
   },
   "local-filespaths": [

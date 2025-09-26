@@ -1,13 +1,28 @@
 [
   {
-    "rootID": "20250924222506-p7vjkme",
+    "rootID": "20250926170108-aefszpy",
     "icon": "",
     "title": "未命名"
+  },
+  {
+    "rootID": "20250926153422-tjyphx1",
+    "icon": "",
+    "title": "Mermaid指南"
   },
   {
     "rootID": "20250922190647-ln5pl0t",
     "icon": "",
     "title": "06 大模型综述"
+  },
+  {
+    "rootID": "20250924222506-p7vjkme",
+    "icon": "",
+    "title": "07 视觉语言基础模型提示工程的系统性综述"
+  },
+  {
+    "rootID": "20250920153118-a2v4gen",
+    "icon": "",
+    "title": "PVZ2文件修改"
   },
   {
     "rootID": "20250921081051-qzb09rl",
@@ -33,11 +48,6 @@
     "rootID": "20250823102131-z8375rt",
     "icon": "",
     "title": "公式"
-  },
-  {
-    "rootID": "20250920153118-a2v4gen",
-    "icon": "",
-    "title": "PVZ2文件修改"
   },
   {
     "rootID": "20250919163918-a6s1l5x",
